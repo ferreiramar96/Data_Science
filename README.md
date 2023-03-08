@@ -23,5 +23,5 @@ Cursando Engenharia de Software pela Universidade Estácio de Sá. Também possu
 Veja meus projetos de Data Science:
 
 * **Análise de Dados Airbnb - Nova York:** http://bit.ly/3DQEeIQ
-* **Panorama da COVID-19 no Mundo:**http://bit.ly/3ZvcORJ
+* **Panorama da COVID-19 - Mundo:**http://bit.ly/3ZvcORJ
 ---
