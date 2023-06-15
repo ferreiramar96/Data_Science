@@ -7,7 +7,7 @@
 # Felipe Ferreira
 <sub>*Data Scientist*</sub>
 
-Cientista de Dados, realizando projetos de análise, transformação e visualização dos dados, tirando o máximo de insights possíveis. 
+Cientista de Dados, realizando projetos de análise, modelos de machine learning, transformação e visualização dos dados, tirando o máximo de insights possíveis. 
 
 Em constante desenvolvimento de minhas habilidades e crescimento profissional, trabalhando sempre em cima das resoluções de problemas de negócios, através da melhor ferramenta.
 Cursando Engenharia de Software pela Universidade Estácio de Sá. Também possuo conhecimento em Desenvolvimento de boas práticas para ambiente de Big Data e aplicação de metodologias para desenvolvimento de projetos.
