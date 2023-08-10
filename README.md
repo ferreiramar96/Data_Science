@@ -15,7 +15,7 @@ Cursando Engenharia de Software pela Universidade Estácio de Sá. Também possu
 
 Atualmente sou estagiário na Mercedes Benz Brasil Ltda, Atuando como Analista de Dados.
 
-**Possuo conhecimento em ferramentas como: Python, Machine Learning, SQL, Estatística e PowerBI**
+**Possuo conhecimento em ferramentas como: Python, Machine Learning, SQL, Estatística, PowerBI e Storytelling**
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/felipeferreiratids/)
