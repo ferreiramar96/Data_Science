@@ -25,7 +25,7 @@ Atualmente sou estagiário na Mercedes Benz Brasil Ltda, Atuando como Analista d
 ## Projetos:
 Veja meus projetos de Data Science:
 
+* **Detecção de Fraude em Cartões de Crédito:** https://bit.ly/460OUBb
 * **Análise de Dados Airbnb - Nova York:** http://bit.ly/3DQEeIQ
 * **Panorama da COVID-19 - Mundo:** http://bit.ly/3ZvcORJ
-* **Detecção de Fraude em Cartões de Crédito:** https://bit.ly/460OUBb
 ---
