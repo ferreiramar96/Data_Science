@@ -13,7 +13,7 @@ Dentre essas habilidades de resolução de problemas, utilizo linguagens de prog
 
 Cursando Engenharia de Software pela Universidade Estácio de Sá. Também possuo conhecimento em Desenvolvimento de boas práticas para ambiente de Big Data e Gestão e aplicação e metodologias para desenvolvimento de projetos. 
 
-Atualmente sou estagiário na Mercedes Benz Brasil Ltda, Atuando como Analista de Dados.
+Atualmente sou estagiário na Mercedes Benz Brasil Ltda, Atuando como Cientista de Dados.
 
 **Possuo conhecimento em ferramentas como: Python, Machine Learning, SQL, Estatística, PowerBI e Storytelling**
 
