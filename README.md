@@ -24,7 +24,7 @@ Atualmente sou estagiário na Mercedes Benz Brasil Ltda, Atuando como Analista d
 
 ## Projetos:
 Veja meus projetos de Data Science:
-
+* **Previsão - Demanda de Vinhos(*Time Series Forecast*):** http://bit.ly/46ZxfZF
 * **Churn Prediction - Empresa de Telecomunicação:** https://bit.ly/47ssGbR
 * **Predict - Custos de Seguro de Saúde:** https://bit.ly/3Rlz7rK
 * **Detecção de Fraude em Cartões de Crédito:** https://bit.ly/460OUBb
