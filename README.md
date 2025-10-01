@@ -4,7 +4,7 @@
   <img src="iaa.png" >
 </p>
 
-# Felipe Ferreira
+# Felipe Duarte
 <sub>*Data Scientist*</sub>
  
 Sou um Cientista de Dados capaz de tirar insights dos dados, e agregar valor para a empresa nas tomadas de decisão baseadas no Data Driven. Sou altamente dedicado e comprometido com o projeto em que estou trabalhando, dando o meu máximo para trazer o melhor resultado possível e mantendo sempre o pensando inovador para resolver os problemas. Realizo projetos de análise, modelos de machine learning, transformação, preparação e visualização dos dados, tirando o máximo de insights possíveis.
