@@ -11,11 +11,13 @@ Sou um Cientista de Dados capaz de tirar insights dos dados, e agregar valor par
 
 Dentre essas habilidades de resolução de problemas, utilizo linguagens de programação, bancos de dados, inteligência artificial e relatórios. além da parte técnicas, tenho muita facilidade de aprender o que for preciso, adoro trabalhar em equipe. Acredito que quanto mais pessoas, mais aprendemos.
 
-Cursando Engenharia de Software pela Universidade Estácio de Sá. Também possuo conhecimento em Desenvolvimento de boas práticas para ambiente de Big Data e Gestão e aplicação e metodologias para desenvolvimento de projetos. 
+Cursado em Engenharia de Software pela Universidade Estácio de Sá. Também possuo conhecimento em Desenvolvimento de boas práticas para ambiente de Big Data e Gestão e aplicação e metodologias para desenvolvimento de projetos. 
 
-Atualmente sou estagiário na Mercedes Benz Brasil Ltda, Atuando como Analista de Dados.
+**Minhas Experiências:**
+- Estágio em Analise de Dados na *Mercedes Benz Brasil Ltda*. (05/2023 - 04/2025)
+- Cientista de Dados na *InUp Contabilidade*. (04/2025 - momento)
 
-**Possuo conhecimento em ferramentas como: Python, Machine Learning, SQL, Estatística, PowerBI e Storytelling**
+**Possuo conhecimento em ferramentas como: Python, Machine Learning, SQL, Estatística, LLM, Google Cloud Plataform (GCP), Docker, PowerBI e Storytelling**
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/felipeferreiratids/)
