@@ -14,8 +14,8 @@ Dentre essas habilidades de resolução de problemas, utilizo linguagens de prog
 Cursado em Engenharia de Software pela Universidade Estácio de Sá. Também possuo conhecimento em Desenvolvimento de boas práticas para ambiente de Big Data e Gestão e aplicação e metodologias para desenvolvimento de projetos. 
 
 **Minhas Experiências:**
-- Estágio em Analise de Dados na *Mercedes Benz Brasil Ltda*. (05/2023 - 04/2025)
-- Cientista de Dados na *InUp Contabilidade*. (04/2025 - momento)
+- Estágio em Analise de Dados - *Mercedes Benz Brasil Ltda*. (05/2023 - 04/2025)
+- Cientista de Dados - *InUp Contabilidade*. (04/2025 - momento)
 
 **Possuo conhecimento em ferramentas como: Python, Machine Learning, SQL, Estatística, LLM, Google Cloud Plataform (GCP), Docker, PowerBI e Storytelling**
 
