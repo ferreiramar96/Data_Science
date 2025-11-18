@@ -17,7 +17,7 @@ Cursado em Engenharia de Software pela Universidade Estácio de Sá. Também pos
 - Estágio em Analise de Dados - *Mercedes Benz Brasil Ltda*. (05/2023 - 04/2025)
 - Cientista de Dados - *InUp Contabilidade*. (04/2025 - momento)
 
-**Possuo conhecimento em ferramentas como: Python, Machine Learning, SQL, Estatística, LLM, Google Cloud Plataform (GCP), Docker, PowerBI e Storytelling**
+**Possuo conhecimento em ferramentas como: Python, Machine Learning, SQL, Estatística, LLM, Google Cloud Plataform (GCP), Docker, PowerBI, n8n e Storytelling**
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/felipeferreiratids/)
@@ -26,6 +26,7 @@ Cursado em Engenharia de Software pela Universidade Estácio de Sá. Também pos
 
 ## Projetos:
 Veja meus projetos de Data Science:
+* **Controle de Gastos com LLM e n8n**: http://bit.ly/47LKCk2
 * **Análise de Risco de Crédito - Nubank:** https://bit.ly/3xVyhu1
 * **Previsão - Demanda de Vinhos(*Time Series Forecast*):** http://bit.ly/46ZxfZF
 * **Churn Prediction - Empresa de Telecomunicação:** https://bit.ly/47ssGbR
