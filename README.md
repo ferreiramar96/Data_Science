@@ -26,10 +26,10 @@ Cursado em Engenharia de Software pela Universidade Estácio de Sá. Também pos
 
 ## Projetos:
 Veja meus projetos de Data Science:
+* **Churn Prediction - Empresa de Telecomunicação + Deploy:** https://bit.ly/47ssGbR
 * **Controle de Gastos com LLM e n8n**: http://bit.ly/47LKCk2
 * **Análise de Risco de Crédito - Nubank:** https://bit.ly/3xVyhu1
 * **Previsão - Demanda de Vinhos(*Time Series Forecast*):** http://bit.ly/46ZxfZF
-* **Churn Prediction - Empresa de Telecomunicação:** https://bit.ly/47ssGbR
 * **Predict - Custos de Seguro de Saúde:** https://bit.ly/3Rlz7rK
 * **Detecção de Fraude em Cartões de Crédito:** https://bit.ly/460OUBb
 * **Análise de Dados Airbnb - Nova York:** http://bit.ly/3DQEeIQ
