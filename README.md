@@ -11,13 +11,15 @@ Sou um Cientista de Dados capaz de tirar insights dos dados, e agregar valor par
 
 Dentre essas habilidades de resolução de problemas, utilizo linguagens de programação, bancos de dados, inteligência artificial e relatórios. além da parte técnicas, tenho muita facilidade de aprender o que for preciso, adoro trabalhar em equipe. Acredito que quanto mais pessoas, mais aprendemos.
 
-Cursado em Engenharia de Software pela Universidade Estácio de Sá. Também possuo conhecimento em Desenvolvimento de boas práticas para ambiente de Big Data e Gestão e aplicação e metodologias para desenvolvimento de projetos. 
+Graduado em Engenharia de Software pela Universidade Estácio de Sá. Também possuo conhecimento em Desenvolvimento de boas práticas para ambiente de Big Data e Gestão e aplicação e metodologias para desenvolvimento de projetos. 
+
+Cursando pós-graduação em Ciência de Dados e Big Data pela PUC Minas. 
 
 **Minhas Experiências:**
 - Estágio em Analise de Dados - *Mercedes Benz Brasil Ltda*. (05/2023 - 04/2025)
-- Cientista de Dados - *InUp Contabilidade*. (04/2025 - momento)
+- Cientista de Dados - *InUp Contabilidade*. (04/2025 - 03/2026)
 
-**Possuo conhecimento em ferramentas como: Python, Machine Learning, SQL, Estatística, LLM, Google Cloud Plataform (GCP), Docker, PowerBI, n8n e Storytelling**
+**Possuo conhecimento em ferramentas como: Python, Machine Learning, MLOps, SQL, Estatística, LLM, Google Cloud Plataform (GCP), Docker, PowerBI, n8n e Storytelling**
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/felipeferreiratids/)
@@ -26,12 +28,12 @@ Cursado em Engenharia de Software pela Universidade Estácio de Sá. Também pos
 
 ## Projetos:
 Veja meus projetos de Data Science:
+* **Detecção de Fraude em Cartões de Crédito - MLOps(End-to-End):** http://bit.ly/495Dqj5
 * **Churn Prediction - Empresa de Telecomunicação + Deploy:** https://bit.ly/47ssGbR
 * **Controle de Gastos com LLM e n8n**: http://bit.ly/47LKCk2
 * **Análise de Risco de Crédito - Nubank:** https://bit.ly/3xVyhu1
 * **Previsão - Demanda de Vinhos(*Time Series Forecast*):** http://bit.ly/46ZxfZF
 * **Predict - Custos de Seguro de Saúde:** https://bit.ly/3Rlz7rK
-* **Detecção de Fraude em Cartões de Crédito:** https://bit.ly/460OUBb
 * **Análise de Dados Airbnb - Nova York:** http://bit.ly/3DQEeIQ
 * **Panorama da COVID-19 - Mundo:** http://bit.ly/3ZvcORJ
 ---
